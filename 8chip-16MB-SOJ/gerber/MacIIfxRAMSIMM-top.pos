@@ -1,0 +1,28 @@
+### Module positions - created on Monday, December 06, 2021 at 12:39:43 PM ###
+### Printed by Pcbnew version kicad (5.1.10-1-10_14)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                PosX       PosY       Rot  Side
+C1        2u2         C_0805              79.7170  -104.3940    0.0000  top
+C2        2u2         C_0805              90.7660  -104.3940    0.0000  top
+C3        2u2         C_0805             101.8150  -104.3940    0.0000  top
+C4        2u2         C_0805             112.8640  -104.3940    0.0000  top
+C5        2u2         C_0805             123.7860  -104.3940    0.0000  top
+C6        2u2         C_0805             134.8350  -104.3940    0.0000  top
+C7        2u2         C_0805             145.8840  -104.3940    0.0000  top
+C8        2u2         C_0805             156.9330  -104.3940    0.0000  top
+C8        2u2         C_0805             165.9890  -121.5390  270.0000  top
+C8        2u2         C_0805              75.6920  -121.5390   90.0000  top
+FID1      Fiducial    Fiducial            75.9460  -103.8860    0.0000  top
+FID2      Fiducial    Fiducial            73.9140  -114.5540    0.0000  top
+FID3      Fiducial    Fiducial           165.3540  -125.9840    0.0000  top
+FID4      Fiducial    Fiducial           165.3540  -103.8860    0.0000  top
+U1        KM41C16000  SOJ-24-26_300mil    82.0420  -114.5540    0.0000  top
+U2        KM41C16000  SOJ-24-26_300mil    93.0910  -114.5540    0.0000  top
+U3        KM41C16000  SOJ-24-26_300mil   104.1400  -114.5540    0.0000  top
+U4        KM41C16000  SOJ-24-26_300mil   115.1890  -114.5540    0.0000  top
+U5        KM41C16000  SOJ-24-26_300mil   126.1110  -114.5540    0.0000  top
+U6        KM41C16000  SOJ-24-26_300mil   137.1600  -114.5540    0.0000  top
+U7        KM41C16000  SOJ-24-26_300mil   148.2090  -114.5540    0.0000  top
+U8        KM41C16000  SOJ-24-26_300mil   159.2580  -114.5540    0.0000  top
+## End
