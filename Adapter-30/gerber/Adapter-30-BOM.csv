@@ -1,0 +1,5 @@
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor","LCSC Part"
+"C1, C2, C3, C4, ","4","2u2","C_Small","stdpads:C_0805","Unpolarized capacitor, small symbol","",""
+"H1, H2, H3, H4, ","4","MountingHole","MountingHole","stdpads:PasteHole_1.152mm_NPTH","Mounting Hole without connection","",""
+"J1, ","1","DRAM-SIMM-30","Conn_01x30","stdpads:SIMM-30_Edge","Generic connector, single row, 01x30, script generated (kicad-library-utils/schlib/autogen/connector/)","",""
+"J2, ","1","IIfxRAM","Conn_02x32_Counter_Clockwise","stdpads:SIMM-64_Socket_TH_P1.27mm","Generic connector, double row, 02x32, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)","",""
